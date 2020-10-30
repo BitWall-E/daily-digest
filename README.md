@@ -1,2 +1,0 @@
-# daily-digest
-daily-digest
